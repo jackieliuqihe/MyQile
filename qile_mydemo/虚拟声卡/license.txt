@@ -1,0 +1,75 @@
+
+Software License Agreement
+----------------------------------------------------------------------
+
+Copyright 2014 QLWQ Studio. All rights reserved. 
+
+----------------------------------------------------------------------
+
+
+1. CONCLUSION AND TERMINATION OF THIS AGREEMENT
+
+- The Licensee is deemed to have concluded this agreement when the
+Licensee copies part or the whole of this software, or when the
+Licensee starts to use the program included in this software. Here, use
+of the program refers to executing the program executable files on a PC.
+
+
+- This agreement may be terminated by the Licensee at any time.
+
+- This software and any copy of it shall be erased upon termination of
+this agreement.
+
+
+2. RIGHTS AND OBLIGATIONS
+
+- Free TRIAL version of this software can be used, reproduced and
+distributed freely on non-profit basis. Only a FULL version, lawfully
+obtained, is permitted for any kind of commercial usage. A copy of the
+FULL version can be distributed only together with its lawfully
+purchased license.
+
+- The Licensee is permitted to distribute the TRIAL version of this
+software in accordance with the following terms:
+
+(1) The Licensee agrees not to modify content and structure of this
+software. However, the Licensee may compress/archive this software if
+it can be unpacked using commonly used methods.
+
+(2) The Licensee agrees not to profit from provision of this software
+to a third parties. However, TRIAL version of this software can be
+freely distributed together with another product, including commercial
+ones.
+
+- For the FULL version, a lawfully obtained software copy can be used in
+accordance with the following terms:
+
+(1) if the software is used for non-commercial purposes in a private home
+environment, a single license is enough for all home computers;
+
+(2) if the software is used for commercial purposes and/or for real-time
+outdoor broadcasting (for example, network audio streaming), each
+additional installation, regardless of whether real or virtual machine,
+requires an additional license.
+
+Copies of FULL version distribution package can be made for backup purposes
+only.
+
+- Owner of a lawfully purchased license (or multiple licenses) to the
+FULL version is permitted to pass (not to replicate) them to a third
+party. In such case, a third party became a new Licensee and must
+acknowledge this Agreement. Licenses obtained from the licenser without
+a payment can be passed without a payment too.
+
+- When the Licensee passes last of licenses owned, the Licensee loses
+all rights to the FULL version and must not retain any copies of the
+FULL version.
+
+
+
+3. LIABILITY
+
+THIS SOFTWARE IS DISTRIBUTED "AS IS".  NO WARRANTY OF ANY KIND IS
+EXPRESSED OR IMPLIED. YOU USE IT AT YOUR OWN RISK. THE LICENSOR WILL
+NOT BE LIABLE FOR DATA LOSS, DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND
+OF LOSS WHILE USING OR MISUSING THIS SOFTWARE.
